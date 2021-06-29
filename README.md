@@ -6,6 +6,9 @@
 # :zap: SAS
 # :zap: C
 # :zap: R
+## :link: CONNECT
+# :e-mail: yasinkocak5@gmail.com
+# www.linkedin.com/in/yasin-koçak-860137167
 <!--
 **yasinkckk/yasinkckk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
