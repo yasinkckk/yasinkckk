@@ -1,5 +1,11 @@
-### Hi there 👋
-
+### Hi! I'm Yasin.
+## :mortar_board: I'm an undergraduate student in statistics. 
+## :bangbang: I'd like to improve myself on data analysis, data visualization and machine learning under statistical science.
+### :muscle: Skills 
+# :zap: python
+# :zap: SAS
+# :zap: C
+# :zap: R
 <!--
 **yasinkckk/yasinkckk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +21,4 @@ Hi! I'm Yasin.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![alt text](http://url/to/img.png)
