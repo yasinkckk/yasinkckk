@@ -1,6 +1,6 @@
 ### Hi! I'm Yasin.
 # :mortar_board: I'm an undergraduate student in statistics. 
-# :bangbang: I'd like to improve myself on data analysis, data visualization and machine learning under statistical science.
+# :bangbang: I'd like to improve myself on data analysis, data visualization and machine learning.
 ## :muscle: Skills 
 # :zap: python
 # :zap: SAS
